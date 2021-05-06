@@ -1,0 +1,1 @@
+after getting the different topics, group the data according to topics and visualize the distribution of upvotes for each topic
